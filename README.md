@@ -1,6 +1,6 @@
 
 
-SonicEngine is a **full-featured, no-code, open-source** game development software. You can build **2D, 3D and multiplayer games** for mobile (iOS, Android), desktop and the web. SonicEngine is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system and reusable behaviors.
+SonicEngine is a **full-featured, no-code** game development software. You can build **2D, 3D and multiplayer games** for mobile (iOS, Android), desktop and the web. SonicEngine is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system and reusable behaviors. It's a layer 1 solution of GDevelop.
 
 ## Technical architecture
 

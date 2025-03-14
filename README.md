@@ -1,6 +1,21 @@
 
+# SonicEngine – **The Ultimate No-Code Game Development Platform**  
 
-SonicEngine is a **full-featured, no-code** game development software. You can build **2D, 3D and multiplayer games** for mobile (iOS, Android), desktop and the web. SonicEngine is fast and easy to use: the game logic is built up using an intuitive and powerful event-based system and reusable behaviors. It's a layer 1 solution of GDevelop.
+SonicEngine is a **powerful, full-featured, no-code** game development software designed for creating **2D, 3D, and multiplayer games** effortlessly. Whether you're building for **mobile (iOS, Android), desktop, or the web**, SonicEngine provides an intuitive and fast development experience.  
+
+With its **event-based system and reusable behaviors**, game logic is created seamlessly—no programming skills required! SonicEngine is a **Layer 1 solution of GDevelop** with integrated **Sonic blockchain support**, making it much more than just a game engine.  
+
+### 🚀 **Why Choose SonicEngine?**  
+✅ **No-Code Game Development** – Create complex games without writing a single line of code.  
+✅ **Multiplatform Deployment** – Build once, publish anywhere (Mobile, Desktop, Web).  
+✅ **Intuitive Event System** – Powerful event-based logic for smooth game creation.  
+✅ **Blockchain Integration** – Manage **tokens, NFTs, and game assets** directly within the engine.  
+✅ **One-Click Deployment** – Instantly publish your game and handle blockchain transactions effortlessly.  
+
+SonicEngine empowers developers, game designers, and creators to turn their ideas into reality with **speed, efficiency, and blockchain innovation**. Whether you're an indie developer or a gaming studio, SonicEngine is the ultimate tool for building the next-gen gaming experience.  
+
+🎮 **Build. Tokenize. Deploy. All in One Place.** 🚀  
+
 
 ## Technical architecture
 
